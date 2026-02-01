@@ -10,6 +10,8 @@ set pastetoggle=<F2>
 set clipboard=unnamedplus
 set fileformat=unix
 set fileformats=unix,dos
+set splitbelow           " 水平分割时新窗口在下侧
+set splitright           " 垂直分割时新窗口在右侧
 
 let Tlist_Use_Right_Window = 1
 let Tlist_Exit_onlyWindow = 1
